@@ -27,6 +27,9 @@ online
 - [Visual Studio Code](https://visualstudio.microsoft.com/services/visual-studio-online/) Visual Studio Online has a browser-based editor with support for Git repos, extensions, and a built-in command line interface so you can edit, run, and debug your applications from any device. 
 
 - [Jupyter Notebook](https://jupyter.org/) Project Jupyter exists to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages.[open](https://github.com/jupyter/notebook)
+
+- [Polynote](https://polynote.io/) Write your notes together,in real-time.A better notebook for Scala (and more). [code](https://github.com/polynote/polynote)
+
 ## Language
 
 - [csharp](https://sharplab.io/) SharpLab is a .NET code playground that shows intermediate steps and results of code compilation.[open](https://github.com/ashmind/SharpLab)
