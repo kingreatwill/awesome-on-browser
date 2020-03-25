@@ -43,7 +43,7 @@ https://repl.it/languages/csharp
 
 [scratch](https://scratch.mit.edu/) Scratch is a free programming language and online community where you can create your own interactive stories, games, and animations.
 
-[harvard cs50](https://ide.cs50.io/)
+[harvard cs50](https://ide.cs50.io/) or https://sandbox.cs50.io/
 
 
 ## Github Tools
