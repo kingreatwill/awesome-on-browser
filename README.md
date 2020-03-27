@@ -32,6 +32,9 @@ online
 
 - [gitpod](gitpod.io) online vs code . chrome https://chrome.google.com/webstore/detail/gitpod-online-ide/dodmmooeoklaejobgleioelladacbeki
 
+- [Red Hat CodeReady Workspaces](https://developers.redhat.com/products/codeready-workspaces/overview)
+
+-[The Kubernetes IDE](https://github.com/lensapp/lens)
 ## Language
 
 - [csharp](https://sharplab.io/) SharpLab is a .NET code playground that shows intermediate steps and results of code compilation.[open](https://github.com/ashmind/SharpLab)
