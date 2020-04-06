@@ -30,11 +30,15 @@ online
 
 - [Polynote](https://polynote.io/) Write your notes together,in real-time.A better notebook for Scala (and more). [code](https://github.com/polynote/polynote)
 
+- [Eclipse Theia](https://github.com/eclipse-theia/theia/) Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript. http://theia-ide.org
+
 - [gitpod](gitpod.io) online vs code . chrome https://chrome.google.com/webstore/detail/gitpod-online-ide/dodmmooeoklaejobgleioelladacbeki
 
 - [Red Hat CodeReady Workspaces](https://developers.redhat.com/products/codeready-workspaces/overview)
 
 -[The Kubernetes IDE](https://github.com/lensapp/lens)
+
+
 ## Language
 
 - [csharp](https://sharplab.io/) SharpLab is a .NET code playground that shows intermediate steps and results of code compilation.[open](https://github.com/ashmind/SharpLab)
