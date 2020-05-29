@@ -36,7 +36,7 @@ online
 
 - [Red Hat CodeReady Workspaces](https://developers.redhat.com/products/codeready-workspaces/overview)
 
--[The Kubernetes IDE](https://github.com/lensapp/lens)
+- [The Kubernetes IDE](https://github.com/lensapp/lens)
 
 
 ## Language
@@ -62,3 +62,5 @@ https://repl.it/languages/csharp
 ## Other
 
 - [webssh](https://github.com/huashengdun/webssh)
+- https://github.com/Microsoft/vscode/wiki/How-to-Contribute#build-and-run
+- VS Codespaces, GithubCodespaces
