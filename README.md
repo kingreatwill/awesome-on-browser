@@ -38,7 +38,7 @@ online
 
 - [The Kubernetes IDE](https://github.com/lensapp/lens)
 
-- [github codespaces](https://github.com/features/codespaces/)
+- [github codespaces](https://github.com/codespaces) [Request early access](https://github.com/features/codespaces/)
 
 ## Language
 
