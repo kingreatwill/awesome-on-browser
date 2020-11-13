@@ -34,6 +34,8 @@ online
 
 - [Eclipse Theia](https://github.com/eclipse-theia/theia/) Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript. http://theia-ide.org
 
+- [Eclipse Che](https://github.com/eclipse/che) The Kubernetes-Native IDE for Developer Teams. Theia based IDE?
+
 - [gitpod](gitpod.io) online vs code . chrome https://chrome.google.com/webstore/detail/gitpod-online-ide/dodmmooeoklaejobgleioelladacbeki
 
 - [Red Hat CodeReady Workspaces](https://developers.redhat.com/products/codeready-workspaces/overview)
@@ -51,6 +53,9 @@ online
 - [runnable](http://runnable.com/)
 
 - [Codio](https://www.codio.com/)
+
+> [Mbed Studio](https://os.mbed.com/studio/) Theia based IDE.
+> Theia based on Monaco.
 
 ## Language
 
